@@ -1,14 +1,14 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/airsquared/blobsaver/total.svg)
 
 # Installation🔓💻
-- #### [Latest Version](../../releases)
-- *25.05.2024*
+- ### [Click to install latest version](https://github.com/vojama/VJAI/releases/tag/latest)
+- *01.06.2024*
 ---
 
 ## Supported Windows Versions🛠️
 
 - Minimal - Windows 7
-- Recommend - Windows 10
+- Recommend - Windows 10/11
 
 ## Contributors🌟
 
