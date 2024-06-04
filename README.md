@@ -2,7 +2,7 @@
 
 # Installation🔓💻
 - ### [Click to install latest version](https://github.com/rothalfaboy1992/rothalfaboy1992/releases/tag/v4.1.1)
-- *01.06.2024*
+- *04.06.2024*
 ---
 
 ## Supported Windows Versions🛠️
